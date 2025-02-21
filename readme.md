@@ -2,11 +2,10 @@
 Source Code Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP & MYSQL.
 <br>
 <br>
-Source Blog : <a href="https://www.codekop.com/read/source-code-aplikasi-penjualan-barang-kasir-dengan-php-amp-mysql-gratis.html" target="_blank">
-https://www.codekop.com/read/source-code-aplikasi-penjualan-barang-kasir-dengan-php-amp-mysql-gratis.html</a>
+Owner App : https://github.com/AdityaFaisal/Aplikasi-Kasir-Berbasis-Web
 <br>
 <br>
-<span style="color:red"><b> * Untuk Reuploader Source Code tolong cantumin sumber juga ya, terima kasih :)</b></span>
+<span style="color:red"><b> * Semoga bermanfaat, terima kasih :) ->> Juan Felixx</b></span>
 
 ## Setting Koneksi PHP
 setting koneksi di config.php dan ganti username, password dan dbname nya
